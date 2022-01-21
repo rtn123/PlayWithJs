@@ -1,4 +1,3 @@
-console.log("fun");
-console.log("Hi");
-console.log('Bye');
-console.log('tye');
+console.log("1");
+console.log("2");
+console.log("3");
